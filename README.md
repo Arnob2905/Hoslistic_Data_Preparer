@@ -192,8 +192,8 @@ This project successfully demonstrates a **complete data preprocessing pipeline*
 
 ## 👨‍💻 Author
 
-**Your Name**
-Arnob Maity
+### **Your Name**
+#### Arnob Maity
 (Data Science Student)
 
 ---
